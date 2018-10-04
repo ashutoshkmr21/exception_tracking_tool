@@ -1,0 +1,60 @@
+
+
+62 : ERechargeMobilepulsaResponse.java - ERROR: Error parsing bill info response - <?xml version="1.0"?>
+<mp>
+ <response_code>14</response_code>
+ <message>NO PELANGGAN TIDAK DITEMUKAN</message>
+</mp>
+
+
+
+53 : AbstractErechargeBookingData.java - Exception while recharging for FMN 
+com.via.erecharge.api.v2.exception.ERechargeApplicationException: Duplicate booking 
+	at com.eos.erecharge.api.mobilepulsa.ERechargeMobilepulsaApi.doRechargeWithBookingData(ERechargeMobilepulsaApi.java:81) ~[flightraja.jar:na]
+	at com.eos.erecharge.data.AbstractErechargeBookingData.doRecharge(AbstractErechargeBookingData.java:257) [flightraja.jar:na]
+	at com.eos.erecharge.data.AbstractErechargeBookingData.doBooking(AbstractErechargeBookingData.java:206) [flightraja.jar:na]
+	at com.eos.erecharge.data.AbstractErechargeBookingData.doPayments(AbstractErechargeBookingData.java:120) [flightraja.jar:na]
+	at com.eos.erecharge.data.AbstractErechargeBookingData.process(AbstractErechargeBookingData.java:111) [flightraja.jar:na]
+	at com.eos.b2c.beans.ERechargeBean.doAPIRecharge(ERechargeBean.java:308) [flightraja.jar:na]
+	at com.via.erecharge.api.v2.book.ERechargeBookHandler.process(ERechargeBookHandler.java:32) [flightraja.jar:na]
+	at com.via.base.api.v2.BaseHandler.getResponse(BaseHandler.java:31) [flightraja.jar:na]
+	at com.via.erecharge.api.v2.search.ERechargeController.doBooking(ERechargeController.java:89) [flightraja.jar:na]
+	at sun.reflect.GeneratedMethodAccessor1868.invoke(Unknown Source) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:222) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137) [spring-web-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:814) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:737) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:969) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:871) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646) [servlet-api.jar:na]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:845) [spring-webmvc-4.2.4.RELEASE.jar:4.2.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727) [servlet-api.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303) [catalina.jar:7.0.59]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.59]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat7-websocket.jar:7.0.59]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.59]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.59]
+	at com.eos.accounts.UserManagerFilter.doFilter(UserManagerFilter.java:658) [flightraja.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241) [catalina.jar:7.0.59]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208) [catalina.jar:7.0.59]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220) [catalina.jar:7.0.59]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122) [catalina.jar:7.0.59]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504) [catalina.jar:7.0.59]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170) [catalina.jar:7.0.59]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103) [catalina.jar:7.0.59]
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950) [catalina.jar:7.0.59]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116) [catalina.jar:7.0.59]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421) [catalina.jar:7.0.59]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1074) [tomcat-coyote.jar:7.0.59]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611) [tomcat-coyote.jar:7.0.59]
+	at org.apache.tomcat.util.net.AprEndpoint$SocketWithOptionsProcessor.run(AprEndpoint.java:2403) [tomcat-coyote.jar:7.0.59]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_45]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-coyote.jar:7.0.59]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_45]

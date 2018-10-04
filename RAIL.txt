@@ -1,0 +1,450 @@
+
+
+28 : RailLogger.java - 06/02/2017 14:59:09   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9994246334508,"err_code":0,"discount":-7500,"book_code":"ULDY9P","extra_fee":0}
+
+
+
+
+26 : RailLogger.java - 06/02/2017 15:00:35   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9997953637202,"err_code":0,"discount":-7500,"book_code":"2WECTH","extra_fee":0}
+
+
+
+
+25 : RailLogger.java - 06/02/2017 14:59:09   get_balance Request  &app=information&action=get_balance&book_code=ULDY9P
+
+
+
+
+17 : RailLogger.java - 06/02/2017 15:00:03   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=XKUW3H
+
+
+
+
+16 : RailLogger.java - 06/02/2017 15:00:04   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"XKUW3H","extra_fee":0}
+
+
+
+
+16 : RailLogger.java - 06/02/2017 15:00:04   get_balance Request  &app=information&action=get_balance&book_code=XKUW3H
+
+
+
+
+16 : RailLogger.java - 06/02/2017 14:59:09   get_book_price_info Response  {"err_msg":"Sorry, Please Try Again","err_code":"0001"}
+
+
+
+
+16 : RailLogger.java - 06/02/2017 15:08:28   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=8AU3YB
+
+
+
+
+15 : RailLogger.java - 06/02/2017 15:08:28   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9993613126803,"err_code":0,"discount":-7500,"book_code":"8AU3YB","extra_fee":0}
+
+
+
+
+15 : RailLogger.java - 06/02/2017 15:08:28   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"8AU3YB","extra_fee":0}
+
+
+
+
+15 : RailLogger.java - 06/02/2017 15:14:35   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"UGCKG8","extra_fee":0}
+
+
+
+
+15 : RailLogger.java - 06/02/2017 15:00:04   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9999581524704,"err_code":0,"discount":-7500,"book_code":"XKUW3H","extra_fee":0}
+
+
+
+
+15 : RailLogger.java - 06/02/2017 15:00:04   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=2WECTH
+
+
+
+
+15 : RailLogger.java - 06/02/2017 15:08:28   get_balance Request  &app=information&action=get_balance&book_code=8AU3YB
+
+
+
+
+15 : RailLogger.java - 06/02/2017 14:59:09   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=ULDY9P
+
+
+
+
+14 : RailLogger.java - 06/02/2017 14:59:09   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"ULDY9P","extra_fee":0}
+
+
+
+
+14 : RailLogger.java - 06/02/2017 15:01:27   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"YYSC14","extra_fee":0}
+
+
+
+
+14 : RailLogger.java - 06/02/2017 15:01:27   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=YYSC14
+
+
+
+
+14 : RailLogger.java - 06/02/2017 15:01:27   get_balance Request  &app=information&action=get_balance&book_code=Y5SPF5
+
+
+
+
+14 : RailLogger.java - 06/02/2017 15:09:24   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=8AU3YB
+
+
+
+
+14 : RailLogger.java - 06/02/2017 15:01:27   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9999838137706,"err_code":0,"discount":-7500,"book_code":"Y5SPF5","extra_fee":0}
+
+
+
+
+14 : RailLogger.java - 06/02/2017 15:00:04   get_book_price_info Response  {"err_msg":"Sorry, Please Try Again","err_code":"0001"}
+
+
+
+
+14 : RailLogger.java - 06/02/2017 14:57:39   get_balance Request  &app=information&action=get_balance&book_code=ULDY9P
+
+
+
+
+14 : RailLogger.java - 06/02/2017 14:58:29   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=ULDY9P
+
+
+
+
+14 : RailLogger.java - 06/02/2017 14:45:56   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"K84GNX","extra_fee":0}
+
+
+
+
+14 : RailLogger.java - 06/02/2017 15:00:04   get_balance Request  &app=information&action=get_balance&book_code=2WECTH
+
+
+
+
+14 : RailLogger.java - 06/02/2017 14:46:38   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=K84GNX
+
+
+
+
+14 : RailLogger.java - 06/02/2017 14:57:39   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=ULDY9P
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:08:28   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"7LXX2C","extra_fee":0}
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:15:34   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"UGCKG8","extra_fee":0}
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:01:27   get_balance Request  &app=information&action=get_balance&book_code=YYSC14
+
+
+
+
+13 : RailLogger.java - 06/02/2017 14:57:40   get_balance Request  &app=information&action=get_balance&book_code=D7GVLQ
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:09:24   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"8AU3YB","extra_fee":0}
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:00:35   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"2WECTH","extra_fee":0}
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:01:27   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9992350117205,"err_code":0,"discount":-7500,"book_code":"YYSC14","extra_fee":0}
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:08:28   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=7LXX2C
+
+
+
+
+13 : RailLogger.java - 06/02/2017 14:59:09   get_balance Request  &app=information&action=get_balance&book_code=D7GVLQ
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:09:24   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9997453113706,"err_code":0,"discount":-7500,"book_code":"AKTDTZ","extra_fee":0}
+
+
+
+
+13 : RailLogger.java - 06/02/2017 14:59:09   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"D7GVLQ","extra_fee":0}
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:01:27   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=Y5SPF5
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:15:34   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=UGCKG8
+
+
+
+
+13 : RailLogger.java - 06/02/2017 14:57:40   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9994246334508,"err_code":0,"discount":-7500,"book_code":"ULDY9P","extra_fee":0}
+
+
+
+
+13 : RailLogger.java - 06/02/2017 15:00:35   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=2WECTH
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:18:08   get_balance Request  &app=information&action=get_balance&book_code=U9TJJC
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:14:35   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"VMUN8X","extra_fee":0}
+
+
+
+
+12 : RailLogger.java - 06/02/2017 14:45:56   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=K84GNX
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:18:08   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=U9TJJC
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:18:08   get_book_price_info Response  {"err_msg":"Book Code U9TJJC does not exist or already canceled","err_code":515}
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:24:25   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=35QV8X
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:01:27   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"Y5SPF5","extra_fee":0}
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:09:24   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=AKTDTZ
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:14:35   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9998503585105,"err_code":0,"discount":-7500,"book_code":"UGCKG8","extra_fee":0}
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:14:35   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=UGCKG8
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:14:35   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=VMUN8X
+
+
+
+
+12 : RailLogger.java - 06/02/2017 14:45:56   get_balance Request  &app=information&action=get_balance&book_code=K84GNX
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:24:25   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=NWN8XR
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:24:25   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9992092721504,"err_code":0,"discount":-7500,"book_code":"NWN8XR","extra_fee":0}
+
+
+
+
+12 : RailLogger.java - 06/02/2017 14:59:09   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9992701008807,"err_code":0,"discount":-7500,"book_code":"D7GVLQ","extra_fee":0}
+
+
+
+
+12 : RailLogger.java - 06/02/2017 14:57:39   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"ULDY9P","extra_fee":0}
+
+
+
+
+12 : RailLogger.java - 06/02/2017 14:46:39   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"K84GNX","extra_fee":0}
+
+
+
+
+12 : RailLogger.java - 06/02/2017 14:46:39   get_balance Request  &app=information&action=get_balance&book_code=K84GNX
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:14:35   get_balance Request  &app=information&action=get_balance&book_code=VMUN8X
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:08:28   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=WK2P3U
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:09:24   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"AKTDTZ","extra_fee":0}
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:08:28   get_balance Request  &app=information&action=get_balance&book_code=7LXX2C
+
+
+
+
+12 : RailLogger.java - 06/02/2017 15:09:24   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9993613126803,"err_code":0,"discount":-7500,"book_code":"8AU3YB","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:23:02   get_balance Request  &app=information&action=get_balance&book_code=TEJY1T
+
+
+
+
+11 : RailLogger.java - 06/02/2017 14:45:57   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=BFSAU4
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:15:34   get_balance Request  &app=information&action=get_balance&book_code=AT98GG
+
+
+
+
+11 : RailLogger.java - 06/02/2017 11:52:16   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=8TSE5G
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:23:02   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"TEJY1T","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:09:24   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9996710583008,"err_code":0,"discount":-7500,"book_code":"7LXX2C","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:14:35   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"49N2P5","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:08:28   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9996710583008,"err_code":0,"discount":-7500,"book_code":"7LXX2C","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 14:57:40   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9991381091405,"err_code":0,"discount":-7500,"book_code":"532DU4","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:08:28   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"WK2P3U","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:23:02   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=NWN8XR
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:24:25   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9999288067808,"err_code":0,"discount":-7500,"book_code":"35QV8X","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:15:34   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=AT98GG
+
+
+
+
+11 : RailLogger.java - 06/02/2017 14:59:09   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=D7GVLQ
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:15:34   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9998398833909,"err_code":0,"discount":-7500,"book_code":"AT98GG","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:24:25   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"NWN8XR","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 11:52:16   get_book_price_info Response  {"err_msg":"Book Code 8TSE5G does not exist or already canceled","err_code":515}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:00:35   get_balance Response  {"normal_sales":240000,"book_balance":232500,"num_code":9999577683703,"err_code":0,"discount":-7500,"book_code":"QK8S6F","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 14:57:40   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"D7GVLQ","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 14:57:40   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=D7GVLQ
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:24:25   get_balance Request  &app=information&action=get_balance&book_code=NWN8XR
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:23:02   get_book_price_info Response  {"total_price_infant":0,"total_price":232500,"total_price_child":0,"err_code":0,"total_price_adult":232500,"book_code":"2YY5H2","extra_fee":0}
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:23:02   get_book_price_info Request  &app=information&action=get_book_price_info&book_code=2YY5H2
+
+
+
+
+11 : RailLogger.java - 06/02/2017 15:09:24   get_balance Request  &app=information&action=get_balance&book_code=8AU3YB
+
+

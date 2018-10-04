@@ -1,0 +1,14 @@
+
+
+586 : OTAPriceQuot.java - Unable to parse price
+java.lang.NullPointerException: null
+	at com.eos.gds.webservice.otaair.OTAPriceQuot.parseResponse(OTAPriceQuot.java:141) [flightraja.jar:na]
+	at com.eos.gds.webservice.otaair.OTAPriceQuot.doPricQuoting(OTAPriceQuot.java:127) [flightraja.jar:na]
+	at com.eos.gds.webservice.otaair.OTASearcher.searchFlightsAvailability(OTASearcher.java:120) [flightraja.jar:na]
+	at com.eos.gds.search.AbstractSearcher.viaCall(AbstractSearcher.java:554) [flightraja.jar:na]
+	at com.eos.gds.search.AbstractSearcher.viaCall(AbstractSearcher.java:121) [flightraja.jar:na]
+	at com.via.util.thread.ViaCallable.call(ViaCallable.java:17) [via-core.jar:na]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [na:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_45]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_45]

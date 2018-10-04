@@ -1,0 +1,21 @@
+
+
+15 : KramatdjatiAPI.java - SEARCH Response XML: <InfoJurusan Count="1">
+  <Jurusan>
+    <TransactionID>35272</TransactionID>
+    <Jurusan>SKBWGR</Jurusan>
+    <Fasilitas>AC, Reclining Seat, Toilet, Smoking Area, Snack</Fasilitas>
+    <IdBerangkat>269213</IdBerangkat>
+    <JmlKursiBis>38</JmlKursiBis>
+    <NoKursiKosong>01,02,07,08,09,10,15,16,17,18,23,24,25,26,31,32,33,34</NoKursiKosong>
+    <HargaTiket>160000</HargaTiket>
+    <WordKey>0fe94fa1aa51914dfb78753799872e3f3e1f3ff9</WordKey>
+    <InfoLokasi count="1">
+      <Lokasi>
+        <IdLokasi>4729</IdLokasi>
+        <LokasiBerangkat>Term Rawabango blokA6</LokasiBerangkat>
+        <JamBerangkat>3:00 PM</JamBerangkat>
+      </Lokasi>
+    </InfoLokasi>
+  </Jurusan>
+</InfoJurusan>

@@ -1,0 +1,8 @@
+
+
+133 : MIGSPaymentHandler.java - response params for order  : <html>
+ <head></head>
+ <body>
+  vpc_Amount=0&amp;vpc_BatchNo=0&amp;vpc_Command=queryDR&amp;vpc_DRExists=N&amp;vpc_FoundMultipleDRs=N&amp;vpc_Locale=en_US&amp;vpc_Merchant=700067&amp;vpc_TransactionNo=0&amp;vpc_Version=1
+ </body>
+</html>
